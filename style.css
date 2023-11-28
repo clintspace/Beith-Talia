@@ -773,8 +773,8 @@ body{
 .schedule .single-schedule .customcolor {
     color:#F82F56; 
 }
-.schedule .single-schedule h4:not(.customcolour) {
-    color: #ffffff; /* White color for other headings */
+.schedule .single-schedule h4 {
+    color: #ffffff; 
 }
 .schedule .single-schedule p{
 	color:#fff;
