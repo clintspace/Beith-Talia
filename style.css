@@ -770,14 +770,7 @@ body{
 	color:#fff;
 	margin-top:13px;
 }
-.schedule .single-schedule h3{
-	font-size: 20px;
-	font-weight:600;
-	display:inline-block;
-	text-transform:capitalize;
-	color:#cd2b2b;
-	margin-top:13px;
-}
+
 .schedule .single-schedule .customcolor {
     color:#F82F56; 
 }
