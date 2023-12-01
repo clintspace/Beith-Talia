@@ -1720,7 +1720,7 @@ body{
 ==========================*/
 .clients{
 	background-image:url('img/client-bg.jpg');
-	background-size:contain;
+	background-size:cover;
 	background-position:center;
 	padding:100px 0px;
 	position:relative;
