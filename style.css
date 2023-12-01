@@ -1729,12 +1729,13 @@ body{
 	
 }
 .clients .single-clients img {
-	width: 100%;
-	cursor: pointer;
-	text-align: center;
-	float: none;
-	padding: 0 35px;
+    width: 100%;
+    cursor: pointer;
+    margin: 0 auto; /* Center the image horizontally */
+    display: block; /* Ensure it behaves as a block element */
+    padding: 0 35px;
 }
+
 /*========================
 	End Clients CSS
 ==========================*/
