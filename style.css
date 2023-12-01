@@ -1730,7 +1730,7 @@ body{
 	
 }
 .clients .single-clients img {
-    max-width: 100%;
+    
 	height:auto;
     cursor: pointer;
     margin: 0 auto; /* Center the image horizontally */
