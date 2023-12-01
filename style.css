@@ -1726,6 +1726,7 @@ body{
 	position:relative;
 }
 .clients .single-clients{
+	width:100%;
 	
 }
 .clients .single-clients img {
@@ -1734,6 +1735,7 @@ body{
     margin: 0 auto; /* Center the image horizontally */
     display: block; /* Ensure it behaves as a block element */
     padding: 0 35px;
+	box-sizing: border-box;
 }
 
 /*========================
